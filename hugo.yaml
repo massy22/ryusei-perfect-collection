@@ -1,0 +1,26 @@
+baseURL: 'https://chipcom.org/ryusei-perfect-collection/'
+languageCode: 'ja-jp'
+title: 'Ryusei Perfect Collection Wiki'
+theme: 'hugo-book'
+
+pagination:
+  pagerSize: 50
+
+taxonomies:
+  category: categories
+
+params:
+  BookMenuBundle: '/menu'
+  BookSection: '*'
+
+menu:
+  main:
+    - name: News
+      url: /news/
+      weight: 10
+    - name: Product Info
+      url: /product/
+      weight: 20
+    - name: System Specs
+      url: /system/
+      weight: 30
