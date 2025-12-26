@@ -1,6 +1,6 @@
 baseURL: 'https://chipcom.org/ryusei-perfect-collection/'
 languageCode: 'ja-jp'
-title: 'Ryusei Perfect Collection Wiki'
+title: '流星のロックマン パーフェクトコレクションまとめサイト'
 theme: 'hugo-book'
 
 pagination:
