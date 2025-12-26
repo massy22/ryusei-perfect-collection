@@ -1,0 +1,96 @@
+/* 流星のロックマン パーフェクトコレクション
+   Wiki風 読みやすさ重視カスタムスタイル
+   参考: 流星のロックマン1 モチーフカラー（青・橙・緑） */
+
+/* 見出し（コンテンツ領域に限定） - Wiki 風に読みやすく */
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+    margin-top: 1.2rem;
+    margin-bottom: 0.6rem;
+    padding: 0.45rem 0.9rem;
+    border-radius: 6px;
+    line-height: 1.22;
+    font-weight: 600;
+    background-clip: padding-box;
+    word-break: break-word;
+    hyphens: auto;
+}
+
+/* レベル別の左ボーダーと薄い背景で視認性向上 */
+.markdown h1 {
+    font-size: 1.8rem;
+    border-left: 4px solid var(--accent-pegasus);
+    background-color: rgba(31, 111, 235, var(--heading-bg-alpha));
+}
+
+.markdown h2 {
+    font-size: 1.5rem;
+    border-left: 4px solid var(--accent-leo);
+    background-color: rgba(245, 166, 35, var(--heading-bg-alpha));
+}
+
+.markdown h3 {
+    font-size: 1.25rem;
+    border-left: 4px solid var(--accent-dragon);
+    background-color: rgba(46, 204, 113, var(--heading-bg-alpha));
+}
+
+.markdown h4 {
+    font-size: 1.1rem;
+    border-left: 3px solid var(--accent-pegasus);
+    background-color: rgba(31, 111, 235, calc(var(--heading-bg-alpha) / 1.5));
+}
+
+.markdown h5 {
+    font-size: 1.0rem;
+    border-left: 3px solid var(--accent-leo);
+    background-color: rgba(245, 166, 35, calc(var(--heading-bg-alpha) / 1.5));
+}
+
+.markdown h6 {
+    font-size: 0.95rem;
+    border-left: 2px solid var(--accent-dragon);
+    background-color: rgba(46, 204, 113, calc(var(--heading-bg-alpha) / 2));
+    font-weight: 600;
+}
+
+/* リンクのスタイル - 視認性を向上 */
+.markdown a {
+    color: var(--accent-pegasus);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.markdown a:hover {
+    color: var(--accent-leo);
+}
+
+.markdown a:visited {
+    color: #5a32a3;
+    /* 訪問済みは紫系 */
+}
+
+/* 小さい画面での調整 */
+@media (max-width: 640px) {
+    .markdown h1 {
+        font-size: 1.45rem;
+    }
+
+    .markdown h2 {
+        font-size: 1.25rem;
+    }
+
+    .markdown h3 {
+        font-size: 1.1rem;
+    }
+
+    .markdown h4,
+    .markdown h5,
+    .markdown h6 {
+        font-size: 0.95rem;
+    }
+}

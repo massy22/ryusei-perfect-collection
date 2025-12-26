@@ -53,10 +53,9 @@ weight: 10
 
 ### Amazon（限定特典付き）
 
-{{< hint info >}}
-**Amazon.co.jp限定特典あり**  
-早期購入特典に加えて、Amazon限定の特典が付属する場合があります。
-{{< /hint >}}
+> [!NOTE]
+> **Amazon.co.jp限定特典あり**  
+> 早期購入特典に加えて、Amazon限定の特典が付属する場合があります。
 
 #### Nintendo Switch版
 - ASIN: B0G8HYS8SS

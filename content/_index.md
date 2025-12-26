@@ -48,7 +48,6 @@ Nintendo Switch / PS5 / PS4 / Xbox Series X|S / Xbox One / PC (Steam)
 
 ---
 
-{{< hint info >}}
-**免責事項**  
-このサイトはファンによる非公式まとめサイトです。最新かつ正確な情報は必ず[公式サイト](https://www.capcom-games.com/megaman/starforce/ja-jp/)でご確認ください。
-{{< /hint >}}
+> [!NOTE]
+> **免責事項**  
+> このサイトはファンによる非公式まとめサイトです。最新かつ正確な情報は必ず[公式サイト](https://www.capcom-games.com/megaman/starforce/ja-jp/)でご確認ください。
