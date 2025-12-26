@@ -58,8 +58,7 @@ weight: 10
 > 早期購入特典に加えて、Amazon限定の特典が付属する場合があります。
 
 #### Nintendo Switch版
-- ASIN: B0G8HYS8SS
-- [Amazonで予約する（Switch版）](https://www.amazon.co.jp/dp/B0G8HYS8SS?tag=c0af-22)
+[Amazonで予約する（Switch版）](https://www.amazon.co.jp/dp/B0G8HYS8SS?tag=c0af-22)
 
 #### PlayStation 5版
 [Amazonで予約する（PS5版）](https://www.amazon.co.jp/s?k=%E6%B5%81%E6%98%9F%E3%81%AE%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3+%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+PS5&tag=c0af-22)
