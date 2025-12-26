@@ -17,12 +17,34 @@ weight: 30
 カプコンより『流星のロックマン パーフェクトコレクション』の発売日と詳細が正式発表されました。
 
 #### 発表内容
-- **発売日**: 2026年3月27日
+- **発売日**: 2026年3月27日（金）
 - **価格**: 4,990円（税込）
 - **対応機種**: Nintendo Switch / PS5 / PS4 / Xbox Series X|S / Xbox One / PC (Steam)
 - **早期購入特典**: アレンジBGM 4曲 + 待ち受けキャラクター2種
 
-[公式プレスリリース（PR TIMES）](https://prtimes.jp/)
+---
+
+### 2025年9月25日〜28日: 東京ゲームショウ2025
+
+『流星のロックマン パーフェクトコレクション』が**世界初のプレイアブル出展**。
+
+#### 出展内容
+- カプコンブースにて試遊可能
+- 高解像度フィルターやオンライン機能のデモンストレーション
+- 来場者からの反響は上々
+
+---
+
+### 2025年9月12日: Nintendo Direct で初発表
+
+Nintendo Direct（2025年9月12日放送）にて、サプライズ発表。
+
+#### 発表内容
+- シリーズ全3作品・7バージョンの収録を発表
+- 対応プラットフォームの発表
+- ティザートレーラー公開
+
+[Nintendo Direct 2025.9.12（YouTube）](https://www.youtube.com/nintendo)
 
 ---
 
@@ -37,12 +59,31 @@ https://www.capcom-games.com/megaman/starforce/ja-jp/
 - スクリーンショット
 - 製品詳細
 
-### 公式動画
+### 公式SNS
 
-#### カプコンTV!! 年末拡大版（2025年12月23日配信予定）
-『流星のロックマン パーフェクトコレクション』の実機プレイが紹介される予定です。
+#### ロックマン ユニティ（公式X）
+[@rockman_unity](https://twitter.com/rockman_unity)
+- 最新ニュース
+- 開発者コメント
+- キャンペーン情報
 
-[カプコン公式YouTube](https://www.youtube.com/capcom)
+#### カプコン公式YouTube
+[カプコン公式YouTubeチャンネル](https://www.youtube.com/capcom)
+- PV・トレーラー
+- 実機プレイ映像
+- カプコンTV!!での紹介
+
+---
+
+## 動画・PV
+
+### トレーラー
+- **ティザートレーラー**（2025年9月12日公開）
+- **詳細発表トレーラー**（2025年12月17日公開）
+
+### 実機プレイ映像
+- **カプコンTV!! 年末拡大版**（2025年12月23日配信）
+  - 実機プレイを交えた詳細紹介
 
 ---
 
@@ -50,28 +91,33 @@ https://www.capcom-games.com/megaman/starforce/ja-jp/
 
 本作は以下のゲームメディアで取り上げられています：
 
-- ファミ通
-- 電撃オンライン
-- 4Gamer.net
-- AUTOMATON
-- GameSpot
-- Nintendo Everything
-- Push Square
+### 国内メディア
+- [ファミ通](https://www.famitsu.com/) - 詳細記事、インタビュー
+- [電ファミニコゲーマー](https://news.denfaminicogamer.jp/) - 発表速報
+- [4Gamer.net](https://www.4gamer.net/) - ゲーム紹介
+- [AUTOMATON](https://automaton-media.com/) - 国内外ニュース
+- [GAME Watch](https://game.watch.impress.co.jp/) - 詳細レポート
 
-最新のメディア情報は各サイトで「流星のロックマン パーフェクトコレクション」で検索してください。
+### 海外メディア
+- [GameSpot](https://www.gamespot.com/)
+- [Nintendo Everything](https://nintendoeverything.com/)
+- [Push Square](https://www.pushsquare.com/)
 
 ---
 
 ## 今後の予定
 
 ### 発売前
-- 2026年3月26日 23:59: 早期購入特典締切
-- 2026年3月26日: Steam版 配信開始
-- 2026年3月27日: 各機種 発売日
+| 日付 | イベント |
+|:---|:---|
+| 2026年3月26日 23:59 | 早期購入特典締切（Steam版は翌日12:59まで） |
+| 2026年3月26日 | Steam版 配信開始 |
+| 2026年3月27日 | 各機種 発売日 |
 
 ### 発売後
 - DLC・追加コンテンツの有無は未発表
 - アップデート情報は公式サイトで随時公開予定
+- オンラインイベントなどの開催は未定
 
 ---
 
