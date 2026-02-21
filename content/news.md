@@ -26,13 +26,6 @@ weight: 30
 
 ---
 
-### 2026年2月某日: 「流星のロックマン」シリーズのオンラインくじが登場！
-
-カプコンの展開する「カプくじオンライン」にて、「流星のロックマン」シリーズのオンラインくじが開始されました。
-詳細は[カプくじオンライン 特設ページ](https://capcom-capkujionline.com/lp/SHOOTINGSTAR_ROCKMAN/)および[公式ブログ](https://rockmanunity.blog.jp/archives/10351394.html)にて確認できます。
-
----
-
 ### 2026年2月4日: 店舗別オリジナル特典＆キャンペーン情報公開
 
 『流星のロックマン パーフェクトコレクション』の店舗別オリジナル特典（オリ特）の詳細が[公式サイトの「Product」ページ](https://www.capcom-games.com/megaman/starforce/ja-jp/#product)にて一挙公開されました。
