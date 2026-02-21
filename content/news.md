@@ -28,7 +28,7 @@ weight: 30
 
 ### 2026年2月4日: 店舗別オリジナル特典＆キャンペーン情報公開
 
-『流星のロックマン パーフェクトコレクション』の店舗別オリジナル特典（オリ特）の詳細が[公式サイトの「Product」ページ](https://www.capcom-games.com/megaman/starforce/ja-jp/#product)にて一挙公開されました。
+『流星のロックマン パーフェクトコレクション』の店舗別オリジナル特典（オリ特）の詳細が[公式サイトの「Product」ページ](https://www.capcom-games.com/megaman/starforce/ja-jp/products/)にて一挙公開されました。
 
 #### 店舗別予約特典一覧
 - **お宝創庫**: 缶バッジ（ウォーロックデザイン）
