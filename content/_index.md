@@ -7,7 +7,7 @@ weight: 1
 
 # 流星のロックマン パーフェクトコレクションまとめサイト
 
-**2026年3月27日 本日発売！**
+**2026年3月27日 発売！**
 
 『流星のロックマン』シリーズ全3作品・計7バージョンが、最新プラットフォームで蘇ります。
 
@@ -43,6 +43,7 @@ Nintendo Switch / PS5 / PS4 / Xbox Series X|S / Xbox One / PC (Steam)
 ## 公式リンク
 
 - [公式サイト](https://www.capcom-games.com/megaman/starforce/ja-jp/)
+- [Webマニュアル](https://manual.capcom.com/rrpc/ja/switch/top/)
 - [Steam ストアページ](https://store.steampowered.com/)
 - [カプコン公式X](https://twitter.com/rockman_unity)
 
