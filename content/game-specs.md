@@ -162,4 +162,12 @@ weight: 20
 
 ---
 
+## オンラインマニュアル
+
+本製品の操作方法や詳細な仕様については、以下の公式オンラインマニュアルをご覧ください。
+
+- [流星のロックマン パーフェクトコレクション オンラインマニュアル (Nintendo Switch版)](https://manual.capcom.com/rrpc/ja/switch/top/)
+
+---
+
 ※最新の仕様情報は[公式サイト](https://www.capcom-games.com/megaman/starforce/ja-jp/)でご確認ください。
