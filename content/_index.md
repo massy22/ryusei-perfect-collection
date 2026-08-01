@@ -36,6 +36,7 @@ Nintendo Switch / PS5 / PS4 / Xbox Series X|S / Xbox One / PC (Steam)
 
 - **[予約情報・購入ガイド](./purchase-guide)** - 販売店舗、特典、価格情報
 - **[収録内容・ゲーム仕様](./game-specs)** - 収録作品、新機能、DS版との違い
+- **[公式X紹介 TIPS・便利機能](./tips)** - 便利機能、仕様変更、設定・操作TIPSまとめ
 - **[公式発表・ニュース](./news)** - 公式サイト、発表年表、メディア情報
 
 ---

@@ -22,6 +22,10 @@ menu:
     - name: Product Info
       url: /product/
       weight: 20
+    - name: TIPS & Guides
+      url: /tips/
+      weight: 25
     - name: System Specs
       url: /system/
       weight: 30
+
